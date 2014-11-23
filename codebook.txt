@@ -2,7 +2,7 @@ Codebook
 =================
 
 "subject" = number from 1 to 30 identifying each subject
-"activity" = one of six activities being performed while data is collected
+"activity" = one of six activities being performed while data is collected (laying, sitting, standing, walking, walking_down_stairs, walking_up_stairs)
 "Avg_tBodyAcc_mean_X" = average of the means of the X-axis for the tBodyAcc signal 
 "Avg_tBodyAcc_mean_Y" = average of the means of the Y-axis for the tBodyAcc signal
 "Avg_tBodyAcc_mean_Z" = average of the means of the Z-axis for the tBodyAcc signal
